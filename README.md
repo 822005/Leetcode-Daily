@@ -27,9 +27,11 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/822005/Leetcode-Daily/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/822005/Leetcode-Daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/822005/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/822005/Leetcode-Daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
