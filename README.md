@@ -9,6 +9,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0001-two-sum](https://github.com/822005/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
+| [1652-defuse-the-bomb](https://github.com/822005/Leetcode-Daily/tree/master/1652-defuse-the-bomb) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/822005/Leetcode-Daily/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/822005/Leetcode-Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Hash Table
@@ -26,6 +27,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
+| [1652-defuse-the-bomb](https://github.com/822005/Leetcode-Daily/tree/master/1652-defuse-the-bomb) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/822005/Leetcode-Daily/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/822005/Leetcode-Daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
