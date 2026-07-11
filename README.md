@@ -7,6 +7,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/822005/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/822005/Leetcode-Daily/tree/master/1652-defuse-the-bomb) |
@@ -27,6 +28,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/822005/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
@@ -58,4 +60,12 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
