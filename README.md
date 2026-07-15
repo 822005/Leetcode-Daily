@@ -9,6 +9,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0001-two-sum](https://github.com/822005/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
+| [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/822005/Leetcode-Daily/tree/master/1652-defuse-the-bomb) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/822005/Leetcode-Daily/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -67,10 +68,12 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0141-linked-list-cycle](https://github.com/822005/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/822005/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
+| [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +83,12 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0141-linked-list-cycle](https://github.com/822005/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/822005/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
+## Sorting
+|  |
+| ------- |
+| [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 <!---LeetCode Topics End-->
