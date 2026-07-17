@@ -8,6 +8,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0001-two-sum](https://github.com/822005/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
@@ -68,6 +69,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0141-linked-list-cycle](https://github.com/822005/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/822005/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/822005/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
