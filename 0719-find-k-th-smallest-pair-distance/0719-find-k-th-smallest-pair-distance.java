@@ -17,8 +17,6 @@ class Solution {
         }
         return low;
     }
-
-    // Helper method to replace the nested function in Python
     private int countPairs(int[] nums, int maxDistance) {
         int count = 0;
         int j = 0;
