@@ -26,6 +26,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0141-linked-list-cycle](https://github.com/822005/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/822005/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
@@ -70,6 +71,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0141-linked-list-cycle](https://github.com/822005/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/822005/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -103,4 +105,8 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/822005/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
