@@ -7,6 +7,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/822005/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
@@ -25,6 +26,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0076-minimum-window-substring](https://github.com/822005/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/822005/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/822005/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
@@ -103,6 +105,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 ## Simulation
@@ -117,4 +120,12 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/822005/Leetcode-Daily/tree/master/0392-is-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
