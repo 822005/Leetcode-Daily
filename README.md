@@ -29,6 +29,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
@@ -54,6 +55,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0076-minimum-window-substring](https://github.com/822005/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/822005/Leetcode-Daily/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/822005/Leetcode-Daily/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
@@ -106,6 +108,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 ## Simulation
