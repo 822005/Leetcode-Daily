@@ -63,6 +63,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/822005/Leetcode-Daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3174-clear-digits](https://github.com/822005/Leetcode-Daily/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/822005/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/822005/Leetcode-Daily/tree/master/3174-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -137,4 +139,8 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [2364-count-number-of-bad-pairs](https://github.com/822005/Leetcode-Daily/tree/master/2364-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/822005/Leetcode-Daily/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
