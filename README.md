@@ -68,6 +68,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/822005/Leetcode-Daily/tree/master/0231-power-of-two) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/822005/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [2364-count-number-of-bad-pairs](https://github.com/822005/Leetcode-Daily/tree/master/2364-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
@@ -143,4 +145,8 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/822005/Leetcode-Daily/tree/master/3174-clear-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/822005/Leetcode-Daily/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
