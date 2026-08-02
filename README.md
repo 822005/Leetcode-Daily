@@ -11,6 +11,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/822005/Leetcode-Daily/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/822005/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -34,6 +35,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/822005/Leetcode-Daily/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [2364-count-number-of-bad-pairs](https://github.com/822005/Leetcode-Daily/tree/master/2364-count-number-of-bad-pairs) |
@@ -102,6 +104,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/822005/Leetcode-Daily/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
 | ------- |
