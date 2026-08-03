@@ -16,6 +16,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0704-binary-search](https://github.com/822005/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
+| [0896-monotonic-array](https://github.com/822005/Leetcode-Daily/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/822005/Leetcode-Daily/tree/master/1652-defuse-the-bomb) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/822005/Leetcode-Daily/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
