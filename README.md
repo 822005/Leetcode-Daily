@@ -10,6 +10,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0054-spiral-matrix](https://github.com/822005/Leetcode-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/822005/Leetcode-Daily/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/822005/Leetcode-Daily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/822005/Leetcode-Daily/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/822005/Leetcode-Daily/tree/master/0231-power-of-two) |
 ## Rolling Hash
