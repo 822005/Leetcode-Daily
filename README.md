@@ -7,6 +7,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/822005/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/822005/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/822005/Leetcode-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/822005/Leetcode-Daily/tree/master/0118-pascals-triangle) |
@@ -144,12 +145,14 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/822005/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/822005/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/822005/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/822005/Leetcode-Daily/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/822005/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/822005/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
