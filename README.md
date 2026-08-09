@@ -10,6 +10,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0053-maximum-subarray](https://github.com/822005/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/822005/Leetcode-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/822005/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/822005/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/822005/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/822005/Leetcode-Daily/tree/master/0136-single-number) |
@@ -91,6 +92,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/822005/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/822005/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/822005/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/822005/Leetcode-Daily/tree/master/0165-compare-version-numbers) |
@@ -126,6 +128,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/822005/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -189,4 +192,12 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0054-spiral-matrix](https://github.com/822005/Leetcode-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0073-set-matrix-zeroes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/822005/Leetcode-Daily/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/822005/Leetcode-Daily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
