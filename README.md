@@ -71,6 +71,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/822005/Leetcode-Daily/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/822005/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/822005/Leetcode-Daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -123,6 +124,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/822005/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 | [1382-balance-a-binary-search-tree](https://github.com/822005/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
@@ -166,6 +168,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/822005/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [3174-clear-digits](https://github.com/822005/Leetcode-Daily/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
@@ -200,4 +203,8 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/822005/Leetcode-Daily/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/822005/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
