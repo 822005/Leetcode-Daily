@@ -16,6 +16,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0136-single-number](https://github.com/822005/Leetcode-Daily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/822005/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/822005/Leetcode-Daily/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
@@ -115,6 +116,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/822005/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/822005/Leetcode-Daily/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
