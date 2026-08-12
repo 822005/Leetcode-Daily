@@ -25,6 +25,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 | [0896-monotonic-array](https://github.com/822005/Leetcode-Daily/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/822005/Leetcode-Daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1652-defuse-the-bomb](https://github.com/822005/Leetcode-Daily/tree/master/1652-defuse-the-bomb) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/822005/Leetcode-Daily/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/822005/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
