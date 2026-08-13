@@ -17,6 +17,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/822005/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/822005/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/822005/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/822005/Leetcode-Daily/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/822005/Leetcode-Daily/tree/master/0643-maximum-average-subarray-i) |
@@ -44,6 +45,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/822005/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/822005/Leetcode-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/822005/Leetcode-Daily/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/822005/Leetcode-Daily/tree/master/0567-permutation-in-string) |
@@ -84,6 +86,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0136-single-number](https://github.com/822005/Leetcode-Daily/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/822005/Leetcode-Daily/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/822005/Leetcode-Daily/tree/master/0268-missing-number) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/822005/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/822005/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/822005/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
@@ -136,6 +140,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0075-sort-colors](https://github.com/822005/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/822005/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/822005/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/822005/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/822005/Leetcode-Daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0826-most-profit-assigning-work](https://github.com/822005/Leetcode-Daily/tree/master/0826-most-profit-assigning-work) |
 ## Simulation
@@ -149,6 +154,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | ------- |
 | [0202-happy-number](https://github.com/822005/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/822005/Leetcode-Daily/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/822005/Leetcode-Daily/tree/master/0268-missing-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/822005/Leetcode-Daily/tree/master/2364-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
