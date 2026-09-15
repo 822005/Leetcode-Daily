@@ -28,6 +28,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0904-fruit-into-baskets](https://github.com/822005/Leetcode-Daily/tree/master/0904-fruit-into-baskets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/822005/Leetcode-Daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1652-defuse-the-bomb](https://github.com/822005/Leetcode-Daily/tree/master/1652-defuse-the-bomb) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/822005/Leetcode-Daily/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/822005/Leetcode-Daily/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/822005/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2364-count-number-of-bad-pairs](https://github.com/822005/Leetcode-Daily/tree/master/2364-count-number-of-bad-pairs) |
@@ -163,6 +164,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 | [0118-pascals-triangle](https://github.com/822005/Leetcode-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/822005/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/822005/Leetcode-Daily/tree/master/0392-is-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/822005/Leetcode-Daily/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
