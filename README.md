@@ -73,6 +73,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/822005/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/822005/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/822005/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/822005/Leetcode-Daily/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/822005/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
@@ -182,6 +183,7 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/822005/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/822005/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [3174-clear-digits](https://github.com/822005/Leetcode-Daily/tree/master/3174-clear-digits) |
 ## Recursion
@@ -222,4 +224,8 @@ Daily documentation of my LeetCode journey, focusing on Data Structures and Algo
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/822005/Leetcode-Daily/tree/master/0402-remove-k-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/822005/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
